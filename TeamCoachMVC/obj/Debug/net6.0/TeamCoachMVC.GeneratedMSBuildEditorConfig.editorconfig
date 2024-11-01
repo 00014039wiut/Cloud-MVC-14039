@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TeamCoachMVC
+build_property.RootNamespace = TeamCoachMVC
+build_property.ProjectDir = C:\Users\HP\Desktop\DSCC.CW1.14039\TeamCoachMVC\TeamCoachMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\DSCC.CW1.14039\TeamCoachMVC\TeamCoachMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Coach/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Coach/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Coach/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Coach/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Coach/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Team/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Team/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Team/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Team/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/DSCC.CW1.14039/TeamCoachMVC/TeamCoachMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-93e9g643sc
